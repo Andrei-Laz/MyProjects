@@ -1,4 +1,4 @@
-package com.example.coffeeshops
+package com.example.myprojects.coffeeshops
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
